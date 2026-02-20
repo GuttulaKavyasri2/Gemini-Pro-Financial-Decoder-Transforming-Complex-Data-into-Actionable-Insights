@@ -139,11 +139,6 @@ Python | AI Integration | Prompt Engineering
 
 Data Analysis | Streamlit | API Development
 
-📫 Connect with me:
-
-LinkedIn: (Add link)
-
-GitHub: (Add link)
 
 ⭐ Why This Project Stands Out
 
