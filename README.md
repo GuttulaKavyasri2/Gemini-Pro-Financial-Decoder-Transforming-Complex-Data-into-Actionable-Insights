@@ -70,11 +70,6 @@ Gemini-Financial-Decoder/
 └── sample_data/
 
 ⚙️ Installation Guide
-1️⃣ Clone Repository
-git clone https://github.com/your-username/Gemini-Financial-Decoder.git
-cd Gemini-Financial-Decoder
-2️⃣ Create Virtual Environment
-
 Windows
 
 python -m venv venv
